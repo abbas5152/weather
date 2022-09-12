@@ -1,6 +1,6 @@
 # **Weather Web -App**
 
-This is personal project and accociated with Masai Shcool.
+This is personal project and associated with Masai School.
 My main objective is to complete all main functionality of this is Weather web app .This app is made with html,css and javascript.Data featched from Openweather Rest API.
 - [Click here](https://spiffy-pika-38d07d.netlify.app/) to see preview of my project.
 
